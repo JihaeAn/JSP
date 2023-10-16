@@ -140,6 +140,7 @@ System.out.println("list : " + list);
 	} // for end
 
 	// 다음 블럭으로 이동하는 부분
+	// list test 안지해 안지해 안지해
 	if (endPage < pageCount) {
 %>
 		<a href="list.jsp?page=<%=startPage + 10%>">[다음]</a>
